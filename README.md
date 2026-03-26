@@ -7,6 +7,7 @@ by [Lee Tusman](https://leetusman.com) for Algorithmic Art Assembly 3.0
 
 ## Agenda
 
+* Introductions
 * What is permacomputing?
 * What is L5?
 * What is Computational Poetry?
