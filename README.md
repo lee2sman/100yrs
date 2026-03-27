@@ -37,3 +37,18 @@ Demonstrates working with images and text.
 ### words-spin
 
 A more fully-featured example.
+
+## Links from the talk
+
+* [Permacomputing wiki](http://permacomputing.net/)
+* [L5 website](https://l5lua.org/)
+* [OUTPUT: An Anthology of Computer-Generated Text, 1953 - 2023](https://direct.mit.edu/books/edited-volume/5867/OutputAn-Anthology-of-Computer-Generated-Text-1953)
+* [Sol Lewitt - Drawing Instructions](https://whitney.org/education/families/kids-art-challenge/sol-lewitt)
+* [Sol Lewitt - Introduction](https://ap.chroniques.it/sol-lewitt/)
+* [Alison Knowles - Make a Salad instructions](https://www.aknowles.com/salad.html)
+* [Alison Knowles' House of Dust](https://www.communedesign.com/post/alison-knowles-house-of-dust/)
+* [Computational Poetry, in Right Click Save](https://www.rightclicksave.com/article/computational-poetry-wen-new-atelier-interview-kalen-iwamato-julien-silvano)
+* [Taper online literary journal for computational poetry](https://taper.badquar.to/)
+* [Taroko Gorge by Nick Montfort](https://nickm.com/poems/taroko_gorge/)
+* [Grapefruit, by Yoko One - Wikipedia](https://en.wikipedia.org/wiki/Grapefruit_(book))
+* [Pomelo, generated works - my tribute to Grapefruit](http://leetusman.com/pomelo/)
